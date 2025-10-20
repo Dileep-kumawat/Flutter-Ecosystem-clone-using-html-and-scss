@@ -19,7 +19,7 @@ It showcases Flutter’s open-source ecosystem, highlighting **community, events
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Project]()**  
+🔗 **[View Live Project](https://flutter-ecosystem-html-scss.netlify.app/)**  
 
 ---
 
@@ -82,7 +82,7 @@ It showcases Flutter’s open-source ecosystem, highlighting **community, events
 
 1. Clone the repository  
    ```bash
-   git clone 
+   git clone https://github.com/Dileep-kumawat/Flutter-Ecosystem-clone-using-html-and-scss.git
 
 2. Navigate to the project directory
 
@@ -109,9 +109,9 @@ It showcases Flutter’s open-source ecosystem, highlighting **community, events
 ## 👨‍💻 Author
 
 **Dileep Kumawat**
-- 💼 [Email](mailto:)
-- 🐙 [GitHub]()
-- 💬 [LinkedIn]()
+- 💼 [Email](mailto:dileepkumawat525@gmail.com)
+- 🐙 [GitHub](https://github.com/Dileep-kumawat/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/dileep-kumawat/)
 
 ---
 
